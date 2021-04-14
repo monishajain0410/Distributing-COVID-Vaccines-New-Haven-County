@@ -1,2 +1,3 @@
 # Distributing-COVID-Vaccines-New-Haven-County
-Estimate the cost of shipping vaccines from hospitals to towns with uncertain demand by combining a minimum cost flow model with a monte carlo simulation.
+A vaccine for COVID-19 may become readily available for use in the U.S. over the next several months. At that point, government officials will begin to plan the costs associated with distributing the vaccine to various cities/towns across the nation.
+Although the U.S. has some experience with mass vaccine distribution, delivering said vaccines will need to be at much greater scale, which will bring new and unique challenges: cost. Thus, we are tasked to estimate the cost of shipping vaccines from hospitals to our 10 chosen towns from the New Haven county given that demand for vaccines is uncertain.
